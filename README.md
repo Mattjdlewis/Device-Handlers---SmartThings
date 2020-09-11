@@ -8,4 +8,3 @@
 - Collection of tasmota enabled Device Handlers
 - Basic and Advanced Type Handlers
 - Brands like Sonoff, Tuya, Smartlife etc
-- 
