@@ -1,6 +1,6 @@
 # Device-Handlers---SmartThings
 
-*Here you will find my Personal Device Handlers used for Samsung SmartThings *
+**Here you will find my Personal Device Handlers used for Samsung SmartThings**
 
 - All Come With a Come with detailed explination of features 
 - Personal touches brings things like Tile iCon changes
